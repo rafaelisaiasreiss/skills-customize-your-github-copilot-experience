@@ -1,10 +1,10 @@
 # Descrição do Projeto
 
+Este projeto é um site educacional para compartilhar tarefas de casa e exercícios de programação com estudantes. Os estudantes podem navegar, visualizar e baixar tarefas diretamente do portal.
+
 ## Padrão de Commits
 
 Sempre utilize o padrão [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/) ao criar mensagens de commit neste projeto. Isso garante clareza, organização e facilita o rastreamento de mudanças no histórico do repositório.
-
-Este projeto é um site educacional para compartilhar tarefas de casa e exercícios de programação com estudantes. Os estudantes podem navegar, visualizar e baixar tarefas diretamente do portal.
 
 ## Estrutura do Projeto
 
